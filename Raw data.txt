@@ -1,0 +1,27 @@
+Hai Do
+0001
+18
+M
+10
+10
+10
+10
+Excellent
+Vivian
+0002
+18
+F
+10
+9
+8
+9
+Excellent
+Lelouch
+0003
+18
+M
+10
+7
+6
+7.66667
+Good

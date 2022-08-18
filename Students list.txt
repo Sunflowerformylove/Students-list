@@ -1,0 +1,27 @@
+1.
+Name: Hai Do
+Age: 18
+Gender: Male
+Maths score: 10
+Chemistry score: 10
+Physics score: 10
+Grade point average: 10
+Overall assessment: Excellent
+2.
+Name: Vivian
+Age: 18
+Gender: Female
+Maths score: 10
+Chemistry score: 9
+Physics score: 8
+Grade point average: 9
+Overall assessment: Excellent
+3.
+Name: Lelouch
+Age: 18
+Gender: Male
+Maths score: 10
+Chemistry score: 7
+Physics score: 6
+Grade point average: 7.66667
+Overall assessment: Good
