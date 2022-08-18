@@ -1,0 +1,45 @@
+1.
+Name: Hai Do
+Age: 18
+Gender: Male
+Maths score: 10
+Chemistry score: 10
+Physics score: 10
+Grade point average: 10
+Overall assessment: Excellent
+2.
+Name: Vivian
+Age: 18
+Gender: Male
+Maths score: 10
+Chemistry score: 10
+Physics score: 10
+Grade point average: 10
+Overall assessment: Excellent
+3.
+Name: Leon
+Age: 18
+Gender: Male
+Maths score: 10
+Chemistry score: 10
+Physics score: 10
+Grade point average: 10
+Overall assessment: Excellent
+4.
+Name: Linchy
+Age: 18
+Gender: Male
+Maths score: 10
+Chemistry score: 10
+Physics score: 10
+Grade point average: 10
+Overall assessment: Excellent
+5.
+Name: Kriss
+Age: 18
+Gender: Female
+Maths score: 9.5
+Chemistry score: 9.75
+Physics score: 10
+Grade point average: 9.75
+Overall assessment: Excellent
